@@ -6,8 +6,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-.yellow{
-  background-color: #f8d061;
+.bg-primary{
+  background-color: #000;
 }
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',

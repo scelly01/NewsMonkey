@@ -7,7 +7,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 .yellow{
-  background-color: #f8d061;
+  background-color: rgb(241, 198, 82);
 }
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
